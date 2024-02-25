@@ -931,6 +931,7 @@ Elemen <`select`> berguna dalam mendefinisikan sebuah tombol dropdown yang diman
  
 Penting untuk diketahui bahwasanya opsi yang aktif secara default adalah adalah opsi yang pertama. Akan tetapi, kita bisa mengatur opsi mana yang aktif secara default dengan menambahkan atribut selected pada suatu <`option`> yang ingin dijadikan sebagai opsi default contohnya ialah seperti berikut:
 
+```
                 <label for="opsi-agama"><b>Agama:</b></label><br>
 
                 <select id="opsi-agama" name="agama" required>
@@ -950,6 +951,7 @@ Penting untuk diketahui bahwasanya opsi yang aktif secara default adalah adalah 
                 <option value="atheis" disabled>Atheis</option>
 
                 </select>
+```
 
 
 Hasil Program:
