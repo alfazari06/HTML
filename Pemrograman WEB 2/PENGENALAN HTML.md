@@ -428,7 +428,8 @@ List adalah fungsi HTML yang digunakan untuk menampilkan daftar dari sesuatu dal
 ```
 
 ## Hasil dari web Browser
-![gambar](gambarr.jpg)
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/gambarr.jpg?raw=true)
 
 # Link
 Link dapat ditemukan di lampir semua halaman web Link/tautan memungkinkan sebuah teks yang ketika di klik akan pindah ke halaman lainnya HTML menggunakan Tag ''<a"> untuk keperluan ini. Link di tulis dengan "<a"> yang merupakan singkatan dari ancher (jaringan).
@@ -467,7 +468,8 @@ Link dapat ditemukan di lampir semua halaman web Link/tautan memungkinkan sebuah
 ```
 
 ### Hasil dari Web Browser
-![frhan](frhann.jpg)
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/frhann.jpg?raw=true)
 
 # Multimedia
 Gambar 
@@ -504,7 +506,8 @@ Atribut alt menyediakan teks alternatif untuk gambar jika pengguna karena bebera
 ```
 
 ## Hasil dari Web Browser
-![rehan](ASET/REHAN.jpg)
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/REHAN.jpg?raw=true)
 
 Berikut adalah letak gambar yang dimuat website diatas:
 ![[simpan gambar.png]]
@@ -541,10 +544,13 @@ misalnya dalam folder root terdapat file video bernama video.mp4. untuk menampil
 ```
 
 ## Hasil dari web browser
-![hprusak](ASET/hprusak.jpg)
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/Pemrograman%20WEB%202/hprusak.jpg?raw=true)
 
 Berikut adalah letak gambar yang dimuat website diatas:
-![[video web.png]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/video%20web.png?raw=true)
+
 # Multimedia audio
 Seperti yang telah dibahas sebelumnya bahwasanya tag <`audio`> merupakan bagian fitur HTML5 untuk menampilkan audio asli di halaman web tanpa memerlukan flash sebagaimana pada HTML versi 4. yang penting untuk diatur pada tag ini adalah Atribut <`src`> yang berfungsi untuk mengidentifikasi sumber media. selain itu terdapat pada Atribut <`controls`> agar pengguna dapat menukar dan menjadi  medua.
 
@@ -556,10 +562,12 @@ Seperti yang telah dibahas sebelumnya bahwasanya tag <`audio`> merupakan bagian 
 konten berupa teks"browser anda tidak mendukung elemen `<`elemen`> pada tag <`video>". pada tag <`video`> akan di tampilkan jika browser tidak mendukung elemen tersebut sehingga sebenarnya bagian ini dapat dihilangkan.
 
 ## Hasil dari web browser
-![[Pemrograman WEB 2/h audiio.png]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/h%20audiio.png?raw=true)
 
 Berikut adalah letak gambar yang dimuat website diatas:
-![[simpan web.png]]
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/simpan%20web.png?raw=true)
+
 # Halaman web lain
  Elemen `<iframe>` dapat digunaka untuk menampilkan halaman website lain dalam suatu website. akan menampilkan dokumen HTML lain dalam subuah website. mudahnya. bisa dibilang website dalam website.
 
