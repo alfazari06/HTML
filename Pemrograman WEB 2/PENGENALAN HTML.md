@@ -835,11 +835,13 @@ Hasil Program:
 ### password  
 digunakan untuk mengambil isian berupa kata sandi atau sesuatu yang bersifat rahasia. Tipe ini akan mengubah semua kerakter yang diketikkan ke dalam kerakter bulat. contohnya ialah seperti berikut:
 
+```
    <`label for="password"><b>Password:</b></label><br`>
 
    <`input type="password" id="password" name="password" placeholder="Masukkan passssword"`>
+```
                 
-Hasil Program:
+##Hasil Program:
 
 ![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/img.2.png?raw=true)
 
