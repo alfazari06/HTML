@@ -848,7 +848,7 @@ digunakan sebagian kolom isian bertipe pilihan yang menawarkan  beberapa opsi  k
 >[!faq] perlu di perhatikan bahwa untuk penggunaan tipe radio yang berkategori set pilihan yang sama mengharuskan nilai name -nya juga sama. 
 
  Opsi  default dapat dilakukan dengan menambahkan atribut <`hecket`> pada elemen opsi dijadikan sebagai opsi default. contohnya ialah seperti berikut:
-
+```
                 <b>Jenis Kelamin: </b><br>
 
                 <input id="lk" type="radio" name="jenis_kelamin" checked>
@@ -858,7 +858,7 @@ digunakan sebagian kolom isian bertipe pilihan yang menawarkan  beberapa opsi  k
                 <input id="pr" type="radio" name="jenis_kelamin">
 
                 <label for="pr">Perempuan</label>
-
+```
 Hasil Program:
 
 ![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/img.3.png?raw=true)
@@ -866,7 +866,7 @@ Hasil Program:
 ### <`checkbox`>
 digunakan untuk memberikan *daftar pilihan dalam satu set opsi* . User dapat memilih satu atau bahkan  *lebih dari satu pilihan* pada tipe ini. Hal ini berbeda dengan tipe sebelumnya yaitu radio yang hanya memungkinkan user untuk memilih satu pilihan saja. Contoh penggunaan <`checkbox`> seperti daftar makanan kesukaan, daftar olahraga yang tidak disukai dan yang Semisalnya. contohnya ialah seperti berikut:
   >[!faq] perlu diperhatikan bahwa untuk penggunaan tipe <`checkbox`> yang berkategori set pilihan yang sama mengharuskan nilai name -nya juga sama.
-
+```
                 <b>Kemampuan Berbahasa Asing:*</b><br>
 
                 <input type="checkbox" id="inggris" name="bahasa_asing">
@@ -884,6 +884,7 @@ digunakan untuk memberikan *daftar pilihan dalam satu set opsi* . User dapat mem
                 <label for="Jepang">Jepang</label>
 
             </div>
+```
 
 Hasil Program:
 
