@@ -828,6 +828,7 @@ digunakan untuk mengambil isian berupa teks. contohnya seperti nama. contohnya i
    <`label for="nama-lengkap"><b>Nama:</b></label><br`>   
    <`input type="text" id="nama-lengkap" name="nama_lengkap" placeholder="Masukkan passssword"`>
 
+
 Hasil Program:
 
 ![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/img.1.png?raw=true)
