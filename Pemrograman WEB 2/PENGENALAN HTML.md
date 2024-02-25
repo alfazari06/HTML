@@ -841,8 +841,9 @@ digunakan untuk mengambil isian berupa kata sandi atau sesuatu yang bersifat rah
 
    <`input type="password" id="password" name="password" placeholder="Masukkan passssword"`>
 ```
-                
-##Hasil Program:
+
+
+## Hasil Program:
 
 ![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/img.2.png?raw=true)
 
