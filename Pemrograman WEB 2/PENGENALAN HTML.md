@@ -68,7 +68,7 @@ Anatomi elemen HTML merujuk pada struktur dasar atau komponen-komponen yang memb
 
 Elemen adalah suatu kesatuan dari sebuah tag yang dimulai dari tag pembuka hingga ke tag penutup Elemen HTML secara garis besar terdiri atas tiga bagian yaitu tag pembuka konten/isi. 
 
-https://github.com/alfazari06/HTML/blob/main/ASET/lagi.jpp
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/lagi.jpg?raw=true)
 
 - tag `<a` adalah elemen dasar untuk membuat link di HTML dan termasuk di tag pembuka
 - herf= adalah nama atribut yang menghubungkan antara halaman web.
