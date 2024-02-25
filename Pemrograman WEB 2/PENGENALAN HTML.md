@@ -89,8 +89,7 @@ Elemen adalah suatu kesatuan dari sebuah tag yang dimulai dari tag pembuka hingg
 ><`body`>
   <`p`>Ini adalah Paragraf<`/p`>
 <`/body`>
-## Hasil web:
-![[h.teks pembuka.png]]
+
 ### Kesimpulan
 jadi dari analisis di atas ada beberapa poin atau kesimpulan yang dapat kita ambil seperti berikut:
 1. **Membentuk Struktur Dokumen:**  
@@ -132,7 +131,6 @@ jadi dari analisis di atas ada beberapa poin atau kesimpulan yang dapat kita amb
 >[!faq] Contoh program <`a href`>
 ><`a href="//www.instagram.com/buaya.storee/"`> link buaya store<`/a`>
 ## Hasil
-![[h.Atribut tag.png]]
 
 ### Kesimpulan
 jadi dari analisis di atas ada beberapa poin atau kesimpulan yang dapat kita ambil seperti berikut:
@@ -153,7 +151,6 @@ jadi dari analisis di atas ada beberapa poin atau kesimpulan yang dapat kita amb
 <`a href="//www.instagram.com/buaya.storee/"`> link buaya store<`/a`>
 
 ### Hasil
-![[h.Atribut tag.png]]
 
 ## Kesimpulan
 Jadi kesimpulan yang saya dapat dari penjelasan di atas adalah fungsi dari konten isi tag dapat berupa teks, seperti paragraf, judul, atau teks biasa. ini membantu bagian utama dari konten html.
@@ -213,8 +210,8 @@ Kesimpulan tentang tag dasar dalam HTML:
 12. *Elemen Semantik*: Seperti <`header`>, <`footer`>, <`nav`>, <`section`>, dan lainnya, digunakan untuk memberikan struktur semantik pada halaman web dan memperbaiki aksesibilitas.
 
 Tag-tag dasar ini membentuk dasar dari sebuah dokumen HTML dan digunakan untuk membuat struktur dan tata letak halaman web. Dengan pemahaman yang baik tentang penggunaan dan fungsionalitas masing-masing tag, Anda dapat membuat halaman web yang terstruktur, mudah dimengerti, dan dapat diakses dengan baik oleh pengguna dan mesin pencari.
-# Heading
-   
+
+# Heading Termasuk dalam jenis-jenis tag   
    Heading atau judul dalam HTML digunakan untuk menandai tingkatan kepentingan dari teks judul pada halaman web. HTML menyediakan enam tingkat heading, mulai dari `<h1>` (heading level 1) sebagai tingkat judul paling tinggi hingga `<h6>` sebagai tingkat judul paling rendah.
    
 - Contoh penggunaan heading dalam HTML:   
@@ -263,7 +260,8 @@ Tag-tag dasar ini membentuk dasar dari sebuah dokumen HTML dan digunakan untuk m
 </html>
 ```
 ## Hasil dari web
-![[h.heading.png]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/h.heading.png?raw=true)
 
 ## Kesimpulan
 Kesimpulan tentang penggunaan heading dalam HTML:
@@ -275,7 +273,8 @@ Kesimpulan tentang penggunaan heading dalam HTML:
     Heading dapat digunakan untuk memberikan tata letak visual pada halaman web, membuatnya lebih menarik dan mudah dipahami.
 4. Satu <`h1`> per Halaman: 
     Direkomendasikan untuk hanya menggunakan satu <`h1`> per halaman sebagai judul utama, dan tingkat heading yang lebih tinggi digunakan untuk judul-judul utama subbagian.
-# PARAGRAF
+   
+# PARAGRAF Termasuk dalam jenis-jenis tag
 Paragraf dalam HTML ditandai dengan tag <`p`>. Tag ini digunakan untuk menandai blok teks yang membentuk sebuah paragraf. Berikut adalah beberapa poin penting tentang penggunaan paragraf di HTML:
 
 1. *<`p`> (Paragraf)*:
@@ -322,7 +321,7 @@ Paragraf dalam HTML ditandai dengan tag <`p`>. Tag ini digunakan untuk menandai 
 ```
 
 ## Hasil dari web
-![[h.paragraf.png]]
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/h.paragraf.png?raw=true)
 
 ## Kesimpulan
 Kesimpulan tentang penggunaan tag teks dalam HTML:
@@ -345,7 +344,7 @@ Kesimpulan tentang penggunaan tag teks dalam HTML:
 6. *<`hr`> (Horizontal Rule)*:
    - Digunakan untuk membuat garis horizontal yang memisahkan konten dalam halaman, seperti antara bagian-bagian berbeda atau untuk memberikan visual pemisah.
 
-# Tag Align
+# Tag Align Termasuk dalam jenis-jenis tag
 Atribut align digunakan untuk mengatur perataan teks pada halaman HTML  Elemen <`p`> dapat menggunakan nilai atribut align"left", akan menghasilkan paragraf dengan perataan teks disebelah kiri Nilai atribut align="right", akan menghasilkan paragraf dengan perataan teks sebelah kanan nilai atribut Align="center" ,Akan menghasilkan paragraf dengan perataan teks di tengah dan nilai atribut align="justify" ,akan menghasilkan paragraf dengan perataan teks pada kiri dan sisi kanan
 
 <`h3`>  belajar Menggunakan Elemen Tag HTML.P <`/h3`>
@@ -363,7 +362,8 @@ Atribut align digunakan untuk mengatur perataan teks pada halaman HTML  Elemen <
 <`/p`>
 
 ## Hasil
-![[h.align.png]]
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/h.align.png?raw=true)
+
 # Komentar
 Html juga mempunyai tag khusus untuk komentar. Untuk membuat komentar di Html
 Kita menggunakan awalan "<!-- " dan penutup --> .
@@ -384,7 +384,7 @@ Kita menggunakan awalan "<!-- " dan penutup --> .
 </html>
 ```
 
-![siapa](siapa.jpg)
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/siapa.jpg?raw=true)
 
 # List
 List adalah fungsi HTML yang digunakan untuk menampilkan daftar dari sesuatu dalam HTML. tag list terdiri dari 2 jenis "<"ol> ordered list (berurutan) dan "<"ul> nordered list (tidak berurutan) ordered list akan tampilkan dengan angka atau huruf sedangkan unordered list dengan bulatan atau kotak ataupun simbol lainnya.
