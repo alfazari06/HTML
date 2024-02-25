@@ -27,7 +27,7 @@
 - Tag pembuka `<head>` berisi informasi tentang halaman HTML sampai dengan tag penutup `</head>` biasanya dalam tag head terdapat tag `<title>` untuk memberikan informasi judul halaman HTML
 - Adapun tag yang berada di antara tag pembuka `<body>` sampai dengan tag penutup `</body>` akan tampil di web browser.
 
-![[hasil program tempe.jpg]]
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/hasil%20program%20tempe.jpg?raw=true)
 
 # ANATOMY ELEMEN HTML
  ## **INI ADALAH PROGRAM**
