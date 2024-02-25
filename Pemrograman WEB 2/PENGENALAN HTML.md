@@ -575,8 +575,8 @@ Berikut adalah letak gambar yang dimuat website diatas:
 
 Dalam tag `<frame>` ada beberapa Atribut yang penting seperti :
 
-### `<src>`, untuk mencari sumber halaman HTML atau web yang akan ditampilkan di dalam frame
-### `<width>` dan `<height>` untuk mengatur ukuran panjang dan lebar dari frame.
+-   `<src>`, untuk mencari sumber halaman HTML atau web yang akan ditampilkan di dalam frame
+-  `<width>` dan `<height>` untuk mengatur ukuran panjang dan lebar dari frame.
 
 >[!faq] Contoh Program
 ```
@@ -599,7 +599,9 @@ Dalam tag `<frame>` ada beberapa Atribut yang penting seperti :
 ```
 
 ## Hasil
-![[h.web.png]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/h.web.png?raw=true)
+
 # Table
 Tabel dalam HTML didefinisikan dengan tag <`table`>
 - setiap baris tabel didefinisikan dengan <`tr`>.
@@ -680,7 +682,8 @@ berfungsi untuk mengatur perataan teks pada tabel. nilai atribut yang dapat  di 
 </html>
 ```
 ## Hasil
-![[hasil program tabel.jpg]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/hasil%20program%20tabel.jpg?raw=true)
 
 ## Penjelasan tentang program di atas
 Program di atas menghasilkan sebuah halaman web yang menampilkan sebuah tabel sederhana dengan dua baris dan dua kolom. Berikut adalah penjelasan tentang hasil yang dihasilkan dari program tersebut:
@@ -782,7 +785,8 @@ Program di atas menghasilkan sebuah halaman web yang menampilkan sebuah tabel se
 ```
 
 ### Hasil:
-![[h.tabell.png]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/h.tabell.png?raw=true)
 
 ## Penjelasan tentang gambar di atas
 Program di atas menghasilkan sebuah halaman web yang menampilkan sebuah tabel dengan beberapa baris dan kolom. Berikut adalah penjelasan tentang hasil yang dihasilkan dari program tersebut:
@@ -825,7 +829,8 @@ digunakan untuk mengambil isian berupa teks. contohnya seperti nama. contohnya i
    <`input type="text" id="nama-lengkap" name="nama_lengkap" placeholder="Masukkan passssword"`>
 
 Hasil Program:
-![[img.1.png]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/img.1.png?raw=true)
                 
 ### password  
 digunakan untuk mengambil isian berupa kata sandi atau sesuatu yang bersifat rahasia. Tipe ini akan mengubah semua kerakter yang diketikkan ke dalam kerakter bulat. contohnya ialah seperti berikut:
@@ -835,7 +840,9 @@ digunakan untuk mengambil isian berupa kata sandi atau sesuatu yang bersifat rah
    <`input type="password" id="password" name="password" placeholder="Masukkan passssword"`>
                 
 Hasil Program:
-![[img.2.png]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/img.2.png?raw=true)
+
 ### rasio 
 digunakan sebagian kolom isian bertipe pilihan yang menawarkan  beberapa opsi  kepada user namun  tetapi hanya satu opsi saja yang boleh di pilih.  contohnya seperti jenis kelamin atau agama.
 >[!faq] perlu di perhatikan bahwa untuk penggunaan tipe radio yang berkategori set pilihan yang sama mengharuskan nilai name -nya juga sama. 
@@ -853,7 +860,8 @@ digunakan sebagian kolom isian bertipe pilihan yang menawarkan  beberapa opsi  k
                 <label for="pr">Perempuan</label>
 
 Hasil Program:
-![[img.3.png]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/img.3.png?raw=true)
 
 ### <`checkbox`>
 digunakan untuk memberikan *daftar pilihan dalam satu set opsi* . User dapat memilih satu atau bahkan  *lebih dari satu pilihan* pada tipe ini. Hal ini berbeda dengan tipe sebelumnya yaitu radio yang hanya memungkinkan user untuk memilih satu pilihan saja. Contoh penggunaan <`checkbox`> seperti daftar makanan kesukaan, daftar olahraga yang tidak disukai dan yang Semisalnya. contohnya ialah seperti berikut:
@@ -878,7 +886,9 @@ digunakan untuk memberikan *daftar pilihan dalam satu set opsi* . User dapat mem
             </div>
 
 Hasil Program:
-![[img.4.png]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/img.4.png?raw=true)
+
 ### number 
 digunakan untuk membatasi isian user hanya pada karakter *numerik* saja. Browser akan menambahkan dua buah tombol atas dan bawah untuk mengubah angka isian. 
 Beberapa atribut untuk tipe Number:
@@ -942,7 +952,8 @@ Penting untuk diketahui bahwasanya opsi yang aktif secara default adalah adalah 
 
 
 Hasil Program:
-![[img.5.png]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/img.5.png?raw=true)
 
 ### Text Area
 Elemen <`textarea`> berguna untuk mengambil inputan user berupa teks yang dapat memuat lebih dari satu baris. Jika dibandingkan dengan elemen <`input`> teks biasa, elemen <`textarea`> memiliki ukuran tinggi yang lebih besar. Element <`textarea`> bisa diisi lebih dari satu baris dengan menekan enter.
@@ -1087,7 +1098,8 @@ Elemen <`button`> yang berada di dalam sebuah form akan otomatis dianggap sama f
 </html>
 ```
 ### Hasil 
-![[hasil program formulir.png]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/hasil%20program%20formulir.png?raw=true)
 
 ## Penjelasan tentang gambar
 Program di atas menghasilkan sebuah halaman web yang menampilkan formulir pendaftaran dengan beberapa field yang dapat diisi oleh pengguna. Berikut adalah hasil yang dihasilkan dari program tersebut:
@@ -1208,7 +1220,8 @@ Berikut adalah contoh kode program HTML Yang sama:
 
 ```
 ## Hasil 
-![[h.Bulan.png]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/h.Bulan.png?raw=true)
 
 ## Kesimpulan
 - Program membuat sebuah tabel dengan dua baris dan empat kolom.
@@ -1307,7 +1320,9 @@ Berikut adalah contoh kode program HTML Yang sama:
 
 ```
 ### Hasil
-![[h.nama 1.png]]
+
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/h.nama%201.png?raw=true)
+
 ## Kesimpulan
  Kesimpulan dari program HTML di atas adalah sebagai berikut:
 
