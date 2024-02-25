@@ -1,4 +1,4 @@
-![[contoh html.jpg]]
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/contoh%20html.jpg?raw=true)
 
 # HTML
 *seperti gambar yang di atas html di anelogikan sebagai struktur atau kerangka rumah
