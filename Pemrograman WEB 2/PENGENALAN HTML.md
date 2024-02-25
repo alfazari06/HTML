@@ -568,7 +568,7 @@ konten berupa teks"browser anda tidak mendukung elemen `<`elemen`> pada tag <`vi
 Berikut adalah letak gambar yang dimuat website diatas:
 ![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/simpan%20web.png?raw=true)
 
-# Halaman web lain
+# Halaman web lain/iframe
  Elemen `<iframe>` dapat digunaka untuk menampilkan halaman website lain dalam suatu website. akan menampilkan dokumen HTML lain dalam subuah website. mudahnya. bisa dibilang website dalam website.
 
 💡 CONTOH penggunaannya seperti ini. jika kita mempunyai website sekolah, lalu di website tersebut ingin menampilkan alamat dalam google maps sekolah, agar memudahkan pengunjung website, kita bisa langsung tampilkan saja halaman sekolah yang ada di google maps.
