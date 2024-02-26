@@ -1347,3 +1347,32 @@ Berikut adalah contoh kode program HTML Yang sama:
 
 Dengan demikian, program ini menghasilkan tabel yang menyajikan informasi dengan tampilan yang terorganisir dan terstruktur.
 
+
+# DIV & SPAN
+
+# <`div`>
+adalah sebuah elemen dalam HTML yang digunakan untuk membuat sebuah "divisi" atau bagian dalam dokumen HTML. Elemen <div> tidak memiliki makna khusus secara semantik, tetapi digunakan sebagai wadah untuk konten lainnya dalam dokumen HTML. Ini sering digunakan untuk mengelompokkan elemen-elemen HTML secara bersama-sama sehingga mereka dapat diberi gaya atau dimanipulasi dengan mudah menggunakan CSS atau JavaScript. Misalnya, Anda dapat menggunakan <div> untuk mengelompokkan beberapa elemen HTML bersama-sama dalam sebuah kotak, memberikan mereka efek visual, atau mengontrol tata letak mereka.
+
+## Contoh
+
+```
+    <div>Ini dibuat menggunakan div</div>
+ <div>Ini juga menggunakan div</div>
+```
+
+## Hasil
+
+
+# <span>
+adalah elemen dalam HTML yang digunakan untuk menerapkan gaya atau memberi penanda pada sebagian teks dalam sebuah dokumen tanpa mengubah makna atau struktur teks itu sendiri. Elemen <span> tidak menambahkan baris baru secara otomatis dan hanya mencakup sebagian teks di dalamnya. Ini sering digunakan ketika Anda ingin menerapkan gaya, warna, atau manipulasi lainnya pada teks tertentu tanpa mempengaruhi teks lain di sekitarnya. Misalnya, Anda dapat menggunakan <span> untuk memberi teks berwarna merah atau membuatnya miring.
+
+## Contoh
+
+```
+<p>Ini dibuat menggunakan tag paragraf, <span>dan ada span di dalamnya.</span></p>
+        <span>Ini dibuat menggunakan span</span>
+        <span>ini j uga dibuat menggunakan
+```
+
+## Hasil
+
