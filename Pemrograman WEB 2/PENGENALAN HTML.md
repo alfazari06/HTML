@@ -1362,6 +1362,7 @@ adalah sebuah elemen dalam HTML yang digunakan untuk membuat sebuah "divisi" ata
 
 ## Hasil
 
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/h.div.png?raw=true)
 
 # <span>
 adalah elemen dalam HTML yang digunakan untuk menerapkan gaya atau memberi penanda pada sebagian teks dalam sebuah dokumen tanpa mengubah makna atau struktur teks itu sendiri. Elemen <span> tidak menambahkan baris baru secara otomatis dan hanya mencakup sebagian teks di dalamnya. Ini sering digunakan ketika Anda ingin menerapkan gaya, warna, atau manipulasi lainnya pada teks tertentu tanpa mempengaruhi teks lain di sekitarnya. Misalnya, Anda dapat menggunakan <span> untuk memberi teks berwarna merah atau membuatnya miring.
@@ -1376,3 +1377,4 @@ adalah elemen dalam HTML yang digunakan untuk menerapkan gaya atau memberi penan
 
 ## Hasil
 
+![alt text](https://github.com/alfazari06/HTML/blob/main/ASET/h.span.png?raw=true)
